@@ -6,4 +6,4 @@ The current trail follows streets because an AirTag reports the phone that heard
 
 Full brief: [problem.md](problem.md).
 
-Repository: [Avsayre-hermitcrabs/hermit-tracking](https://github.com/Avsayre-hermitcrabs/hermit-tracking).
+Repository: [Avsayre-hermitcrabs/crustacean-plantation-hermit-tracking](https://github.com/Avsayre-hermitcrabs/crustacean-plantation-hermit-tracking).
